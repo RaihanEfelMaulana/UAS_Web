@@ -1,0 +1,251 @@
+body {
+	background-color: gainsboro;
+}
+.badan-utama {
+	max-width: 1080px;
+	margin: 20px auto;
+	background-color: white;
+	overflow: hidden;
+}
+.media {
+	text-align: right;
+	margin-right: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.media img {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	padding: 2px;
+}
+.media a {
+	text-decoration: none
+}
+.navigasi hr {
+	border-top: 2px dashed red;
+	margin-left: 5px;
+}
+.navigasi ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #8B0304;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+.navigasi li {
+	float: left;
+}
+.navigasi a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+.navigasi li a:hover {
+	background-color: #068c45;
+	transition-duration: 2s;
+}
+header {
+	background-color: #8B0304;
+	overflow: hidden;
+	margin-bottom:0px;
+}
+.header-kiri {
+	width: 240px;
+	float: left;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.header-kiri img {
+	width: 100%;
+	height: 130px
+}
+.header-kiri a {
+	text-decoration:none;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	color: white;
+	font-size: 15px;
+}
+.header-bawah {
+	width: 500px;
+	float: left;
+	padding-top: 5px;
+	padding-left: 15px;
+	padding-right: 5px;
+}
+.header-bawah video {
+	width: 100%;
+	height: 330px;
+}
+.header-bawah img {
+	width: 100%;
+	height: 330px;
+}
+.running-text {
+	background-color:green;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.judul {
+	background-color: blue;
+	border-bottom: 3px solid blue;
+	color: white;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 3px;
+	border-top-left-radius: 10px; 
+}
+.kotak {
+	border-top:  3px solid blue;
+	margin-bottom: 5px;
+}
+.bold-blue {
+	font-weight: bold;
+	color: blue;
+}
+.menu-kiri h1 {
+	text-align:center;
+	color: blue;
+}
+.menu-kiri p {
+	text-align:justify;
+}
+.menu-kiri {
+	width: 735px;
+	float: left;
+	clear: both;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 5px;
+}
+.menu-kiri .artikel {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+.menu-kiri table {
+	width: 100%;
+}
+.menu-kiri table td {
+	width: 50%;
+}
+.menu-kiri img {
+	width: 100%;
+}
+.tanggal-posting {
+	color: red;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: block;
+	font-size: 12px;
+	text-align: right;
+	margin-top: 5px;
+	font-weight: bold;
+}
+.menu-kiri a {
+	text-decoration: none;
+	color: blue;
+	font-weight: bold;
+}
+.menu-kanan {
+	width: 300px;
+	float: left;
+	padding-top: 15px;
+	padding-left: 15px;
+}
+.menu-kanan .judul {
+	background-color: orange;
+	border-bottom: 3px solid orange;
+	color: white;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 3px;
+	border-top-left-radius: 10px; 
+}
+.menu-kanan .kotak {
+	border-top:  3px solid orange;
+	margin-bottom: 10px;
+}
+.menu-kanan a {
+	text-decoration: none;
+	color: blue;
+}
+.menu-kanan video {
+	padding-top: 5px;
+	width: 100%;
+}
+footer{
+	float: left;
+	color: white;
+	background-color: #8B0304;
+	padding: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: justify;
+}	
+.footer-kiri {
+	width: 515px;
+	float: left;
+	padding-right: 15px;
+}
+.footer-tengah {
+	width: 285px;
+	float: left;
+	padding-right: 15px;
+}
+.footer-kanan {
+	text-align: center;
+	width: 220px;
+	float: left;
+}
+.footer-kanan, .footer-kanan .media {
+	text-align: center;
+}
+footer hr {
+	border: 1px solid;
+}
+/*Untuk tablet*/
+@media screen and (max-width:1080px){
+	.badan-utama {
+		width: 100%;
+	}
+	.header-bawah , .menu-tengah, .menu-kiri, .menu-kanan, .footer-kiri, .footer-kanan{
+		width: 100%;
+		float: left;
+		margin: 0;
+		padding: 0;
+	}
+	.header-kiri {
+		width: 50%;
+		float: left;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+/*Untuk Smartphone*/
+@media screen and (max-width:780px){
+	.badan-utama {
+		width: 100%;
+	}
+	.header-bawah , .menu-tengah, .menu-kiri, .menu-kanan, .footer-kiri, .footer-kanan{
+		width: 100%;
+		float: left;
+		margin: 0;
+		padding: 0;
+	}
+	.header-kiri {
+		width: 50%;
+		float: left;
+		margin: 0;
+		padding: 0;
+	}
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UAS</title>
+	<meta name="author" content="Raihan Efel Maulana">
+	<meta name="description" content="UTS">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link rel="shortcut icon" href="images_2101082019/favicon-detiksport.ico">
+	<link href="css_2101082019/css.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	
+	<div class="badan-utama">
+		<div class="media">
+			<a href=""><img src="images_2101082019/moto2_2101082019.jpg"></a>
+			<a href=""><img src="images_2101082019/motogp_2101082019.png"></a>
+			<a href="index_2101082019.html"><img src="images_2101082019/images_2101082019.jpg"></a>
+		</div>
+		
+		<div class="navigasi">
+			<ul>
+				<li><a href="">RACE</a></li>
+				<li><a href="">MOTO 3</a></li>
+				<li><a href="">MOTO 2</a></li>
+				<li><a href="">MOTO GP</a></li>
+			</ul>
+			<hr>
+		</div>
+	
+		<div class="running-text">
+			<marquee onmouseover="this.stop()" onmouseout="this.start()">
+				<font>Selamat datang di Portal Moto GP</font> 
+			</marquee>
+		</div>
+		
+		<section>
+				<div class="menu-kiri">
+					<h1>Marc Marquez Pede Pulih Toal, Lengan Sudah Tak Sakit Lagi!</h1>
+					<img src="images_2101082019/marc-marquez_169_2101082019.jpeg">
+					<p>Jakarta - Marc Marquez optimis bisa pulih total dari cedera tulang humerus lengan kanan yang dideritanya . juara dinua delapan kali itu kini tak lagi merasakan sakit seperti dulu.</p>
+					<p>Hal itu ia ungkapkan dalam tulisan pribadi yang dirilis oleh <span class="bold-blue">Repsol Honda</span> saat ini, ia tangah berlibur sambil menunggu waktu untuk menjalani pemeriksaan x-ray</p>
+				</div>
+				
+				<div class="menu-kanan">
+			
+					<span class="judul">BERITA TERPOPULER</span>
+						<div class="kotak">
+							<a href="">Alex Rins Gabung LCR Honda di MotoGP 2023</a><br><br>
+							<a href="">Tiada Dendam Antara Fabio Quartararo dan Alex Espargaro</a><br><br>
+							<a href="">Fabio Quartararo Ngaku Diminta Tim Balik Ke Lintasan Usai jatuh</a>
+						</div>
+						
+						<span class="judul">FOTO</span>
+						<div class="kotak">
+							<img src="images_2101082019/valentino_2101082019.jpg">
+						</div>
+				</div>
+			</section>
+			
+			<footer>
+				<div class="footer-kiri">
+				Alamat
+				<hr>
+				Jln Limau Manis, Kecamatan Pauh, Kota Padang, Provinsi Sumatera Barat
+			</div>
+			<div class="footer-tengah">
+				Informasi
+				<hr>
+				Redakal<br>
+				Karir<br>
+				Media Partner<br>
+				Info Iklan
+				
+			</div>
+			<div class="footer-kanan">
+				Connect With Us
+				<hr>
+				<div class="media">
+					<a href="" target="_blank">
+					<img src="images_2101082019/ig_2101082019.png">
+					</a>
+					<a href="" target="_blank">
+					<img src="images_2101082019/twitter_2101082019.png">
+					</a>
+					<a href="" target="_blank">
+					<img src="images_2101082019/fb_2101082019.png">
+					</a>
+				</div>
+				Copyright @ 2022 detikcom.<br>
+				All right reserved
+			</div>
+			</footer>
+		
+	</div>
+	
+</body>
+</html>

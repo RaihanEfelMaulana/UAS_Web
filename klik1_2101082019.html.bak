@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UAS</title>
+	<meta name="author" content="Raihan Efel Maulana">
+	<meta name="description" content="UTS">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link rel="shortcut icon" href="images_2101082019/favicon-detiksport.ico">
+	<link href="css_2101082019/css.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	
+	<div class="badan-utama">
+		<div class="media">
+			<a href=""><img src="images_2101082019/moto2_2101082019.jpg"></a>
+			<a href=""><img src="images_2101082019/motogp_2101082019.png"></a>
+			<a href="index_2101082019.html"><img src="images_2101082019/images_2101082019.jpg"></a>
+		</div>
+		
+		<div class="navigasi">
+			<ul>
+				<li><a href="">RACE</a></li>
+				<li><a href="">MOTO 3</a></li>
+				<li><a href="">MOTO 2</a></li>
+				<li><a href="">MOTO GP</a></li>
+			</ul>
+		</div>
+		
+		<div class="running-text">
+			<marquee onmouseover="this.stop()" onmouseout="this.start()">
+				<font>Selamat datang di Portal Moto GP</font> 
+			</marquee>
+		</div>
+		
+		<section>
+				<div class="menu-kiri">
+					<h1>Wow! 186 Crash Terjadi pada Paruh Pertama MotoGP 2022</h1>
+					<img src="images_2101082019/alex-rins-takaaki-nakagami_16_2101082019.jpeg">
+					<p>Jakarta - Paruh pertama MotoGP 2022 diwarnai banyaknya pembalap yang kecelakaan di lintasan.Total ada 186 crash sejauh ini, lebih dari separuh total crash musim lalu </p>
+					<p>Paruh pertama <span class="bold-blue">MotoGP 2022</span> diwarnai banyaknya pembalap yang kecelakaan  di lintasan.Total ada 186 crash sejauh ini, lebih dari separuh total crash musim lalu </p>
+					<p>MotoGP 2022 sudah memainkan 11 balapan sebelum memasuki jeda libur musim panas.<span class="bold-blue">Fabio Quartararo</span> memimpin klasemen sementara dengan 172 poin, unggul 21 angka dari<span class="bold-blue">Alex Espargaro</span>di posisi kedua. Rutin punya squad bertabur bintang, apa sih yang kurang dari raksasa asal Prancis itu?</p>
+					<p>Di balik persaingan ketatnya MotoGP musim ini, ada catatan menarik terkait insien-insiden yang terjadi selama akhir pekan race. Melansir <i> La Gazzeetta delio sport</i>. sudah ada 186 crash, mulai dari sesi free practice hingga balapan dalam 11 seri yang sudah dijalani</p>
+				</div>
+				
+				<div class="menu-kanan">
+			
+					<span class="judul">BERITA TERPOPULER</span>
+						<div class="kotak">
+							<a href="">Alex Rins Gabung LCR Honda di MotoGP 2023</a><br><br>
+							<a href="">Tiada Dendam Antara Fabio Quartararo dan Alex Espargaro</a><br><br>
+							<a href="">Fabio Quartararo Ngaku Diminta Tim Balik Ke Lintasan Usai jatuh</a>
+						</div>
+						
+						<span class="judul">FOTO</span>
+						<div class="kotak">
+							<img src="images_2101082019/valentino_2101082019.jpg">
+						</div>
+				</div>
+			</section>
+			
+			<footer>
+				<div class="footer-kiri">
+				Alamat
+				<hr>
+				Jln Limau Manis, Kecamatan Pauh, Kota Padang, Provinsi Sumatera Barat
+			</div>
+			<div class="footer-tengah">
+				Informasi
+				<hr>
+				Redakal<br>
+				Karir<br>
+				Media Partner<br>
+				Info Iklan
+				
+			</div>
+			<div class="footer-kanan">
+				Connect With Us
+				<hr>
+				<div class="media">
+					<a href="" target="_blank">
+					<img src="images_2101082019/ig_2101082019.png">
+					</a>
+					<a href="" target="_blank">
+					<img src="images_2101082019/twitter_2101082019.png">
+					</a>
+					<a href="" target="_blank">
+					<img src="images_2101082019/fb_2101082019.png">
+					</a>
+				</div>
+				Copyright @ 2022 detikcom.<br>
+				All right reserved
+			</div>
+			</footer>
+		
+	</div>
+	
+</body>
+</html>

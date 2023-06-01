@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UAS</title>
+	<meta name="author" content="Raihan Efel Maulana">
+	<meta name="description" content="UTS">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link rel="shortcut icon" href="images_2101082019/favicon-detiksport.ico">
+	<link href="css_2101082019/css.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	
+	<div class="badan-utama">
+		<div class="media">
+			<a href=""><img src="images_2101082019/moto2_2101082019.jpg"></a>
+			<a href=""><img src="images_2101082019/motogp_2101082019.png"></a>
+			<a href="index_2101082019.html"><img src="images_2101082019/images_2101082019.jpg"></a>
+		</div>
+		
+		<div class="navigasi">
+			<ul>
+				<li><a href="">RACE</a></li>
+				<li><a href="">MOTO 3</a></li>
+				<li><a href="">MOTO 2</a></li>
+				<li><a href="">MOTO GP</a></li>
+			</ul>
+			<hr>
+		</div>
+	
+		<header>
+
+			<div class="header-kiri">
+				<img src="images_2101082019/alex-rins-takaaki-nakagami_16_2101082019.jpeg"><br>
+				<a href="klik1_2101082019.html">Wow! 186 Crash</a>
+			</div>
+			<div class="header-kiri">
+				<img src="images_2101082019/marc-marquez-pol-espargaro-1_169_2101082019.jpeg"><br>
+				<a href="">Honda Petik Buah Pahit</a>
+			</div>
+			<div class="header-kiri">
+				<img src="images_2101082019/luca-marini_169_2101082019.png"><br>
+				<a href="">Luka Marini Prediksikan MotorGP</a>
+			</div>
+			<div class="header-kiri">
+				<img src="images_2101082019/fabio-quartararo-1_169_2101082019.jpeg"><br>
+				<a href="">Quartararo Banyak Ngeluh</a>
+			</div>
+			
+			<div class="header-bawah">
+				<video controls>
+					<source src="video_2101082019/motogp_2101082019.mp4" type="video/mp4">
+				</video>
+			</div>
+			<div class="header-bawah">
+				<img src="images_2101082019/francesco-bagnaia-1_169_2101082019.jpeg"><br>
+			</div>				
+	
+		</header>
+		
+		<div class="running-text">
+			<marquee onmouseover="this.stop()" onmouseout="this.start()">
+				<font>Selamat datang di Portal Moto GP</font> 
+			</marquee>
+		</div>
+		
+		<section>
+				<div class="menu-kiri">
+					<span class="judul">NEWS FEED</span>
+						<div class="kotak">
+							<div class="artikel">
+								<table>
+									<tr valign="top">
+										<td><img src="images_2101082019/marc-marquez_169_2101082019.jpeg"></td>
+										<td>
+											<a href="klik_2101082019.html">Marc Marquez Pede Pulih Total, Lengan Sudah Tak Sakit Lagi</a><br>
+											<span class="tanggal-posting">Kamis, 14 Juli 2022 12:00 WIB</span>
+											<b>Marc Marquez</b> optimis bisa pulih total dari cedera tulang humerus lengan kanan yang dideritanya . juara dinua delapan kali itu kini tak lagi merasakan sakit seperti dulu.
+										</td>
+									</tr>
+									<tr valign="top">
+										<td><img src="images_2101082019/fabio-quartararo-2_2101082019.jpeg"></td>
+										<td>
+											<a href="">Fabio Quartararo Baik-baik Saja Setelah Dua Kali jatuh tapi...</a><br>
+											<span class="tanggal-posting">Kamis, 14 Juli 2022 12:00 WIB</span>
+											<p><b>Absen - Fabio Quartataro</b> dua kali jatuh di MotorGP Belanda 2022. Rider Yamaha itu mengaku baik baik saja, tapi ada sedikit rasa sakit dibahu</p>
+										</td>
+									</tr>
+									<tr valign="top">
+										<td><img src="images_2101082019/enea-bastianini_169_2101082019.jpeg"></td>
+										<td>
+											<a href="">Tak Kunjung Juara Liga Champions, PSG Kurang Apa sih?</a><br>
+											<span class="tanggal-posting">Rabu, 20 Juli 2022 13:00 WIB</span>
+											<b>Jakarta - Rider Gresini</b> Racing. Enea Brasnani mesih belum mendapatkan hasil bagus di Moto Gp Belanda 2022. Rider italia itu yakin akan bisa lebih baik usai jeda musim panas.
+										</td>
+									</tr>
+								</table>
+							</div>	
+						</div>
+				</div>
+				
+				<div class="menu-kanan">
+			
+					<span class="judul">BERITA TERPOPULER</span>
+						<div class="kotak">
+							<a href="">Alex Rins Gabung LCR Honda di MotoGP 2023</a><br><br>
+							<a href="">Tiada Dendam Antara Fabio Quartararo dan Alex Espargaro</a><br><br>
+							<a href="">Fabio Quartararo Ngaku Diminta Tim Balik Ke Lintasan Usai jatuh</a>
+						</div>
+						
+						<span class="judul">FOTO</span>
+						<div class="kotak">
+							<img src="images_2101082019/valentino_2101082019.jpg">
+						</div>
+				</div>
+			</section>
+			
+			<footer>
+				<div class="footer-kiri">
+				Alamat
+				<hr>
+				Jln Limau Manis, Kecamatan Pauh, Kota Padang, Provinsi Sumatera Barat<br>
+			</div>
+			<div class="footer-tengah">
+				Informasi
+				<hr>
+				Redakal<br>
+				Karir<br>
+				Media Partner<br>
+				Info Iklan
+				
+			</div>
+			<div class="footer-kanan">
+				Connect With Us
+				<hr>
+				<div class="media">
+					<a href="" target="_blank">
+					<img src="images_2101082019/ig_2101082019.png">
+					</a>
+					<a href="" target="_blank">
+					<img src="images_2101082019/twitter_2101082019.png">
+					</a>
+					<a href="" target="_blank">
+					<img src="images_2101082019/fb_2101082019.png">
+					</a>
+				</div>
+				Copyright @ 2022 detikcom.<br>
+				All right reserved
+			</div>
+			</footer>
+		
+	</div>
+	
+</body>
+</html>
